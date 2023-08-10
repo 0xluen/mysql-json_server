@@ -5,4 +5,4 @@ config :mysql_json_server, MysqlJsonServer.Repo,
   hostname: "localhost",
   port: 3306,
   show_sensitive_data_on_connection_error: true,
-  pool_size: 10 
+  pool_size: 10
